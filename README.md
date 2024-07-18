@@ -1,4 +1,4 @@
-This is a fork incorporating a few of my own fixes, mainly for PHP8 support.
+*This is a fork incorporating a few of my own fixes, mainly for PHP8 support.*
 
 # Business Day
 
